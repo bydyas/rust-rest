@@ -1,0 +1,9 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(docker rm:*)",
+      "Bash(docker run:*)",
+      "Bash(docker exec:*)"
+    ]
+  }
+}
